@@ -1,0 +1,29 @@
+{
+  "name": "testing-travis-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-jscs": "^0.8.1",
+    "grunt-simple-mocha": "^0.4.0"
+  },
+  "scripts": {
+    "test": "node_modules/grunt-cli/bin/grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joekteo/testing-travis-ci.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joekteo/testing-travis-ci.git/issues"
+  },
+  "homepage": "https://github.com/joekteo/testing-travis-ci.git"
+}
