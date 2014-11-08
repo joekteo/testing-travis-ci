@@ -1,3 +1,5 @@
+<img src="https://travis-ci.org/joekteo/testing-travis-ci.svg?branch=travis-testing">
+
 testing-travis-ci
 =================
 
